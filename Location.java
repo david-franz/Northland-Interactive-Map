@@ -115,4 +115,4 @@ public class Location {
 	}
 }
 
-// code for COMP261 assignments
+// code for this class provided by university
