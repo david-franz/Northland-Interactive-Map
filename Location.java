@@ -1,3 +1,5 @@
+// code for this class provided by university
+
 import java.awt.Point;
 
 /**
@@ -114,5 +116,3 @@ public class Location {
 		return String.format("(%.3f, %.3f)", x, y);
 	}
 }
-
-// code for this class provided by university

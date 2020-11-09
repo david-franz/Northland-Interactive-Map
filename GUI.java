@@ -1,3 +1,5 @@
+// code for this class provided by university
+
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 import java.awt.Graphics;
@@ -472,5 +474,3 @@ public abstract class GUI {
 		frame.setVisible(true);
 	}
 }
-
-// code for this class provided by university
